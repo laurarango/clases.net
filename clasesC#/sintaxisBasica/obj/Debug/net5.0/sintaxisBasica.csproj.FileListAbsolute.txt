@@ -1,0 +1,5 @@
+C:\Users\arang\Documents\proyectos.Net\clasesC#\sintaxisBasica\obj\Debug\net5.0\sintaxisBasica.csproj.AssemblyReference.cache
+C:\Users\arang\Documents\proyectos.Net\clasesC#\sintaxisBasica\obj\Debug\net5.0\sintaxisBasica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arang\Documents\proyectos.Net\clasesC#\sintaxisBasica\obj\Debug\net5.0\sintaxisBasica.AssemblyInfoInputs.cache
+C:\Users\arang\Documents\proyectos.Net\clasesC#\sintaxisBasica\obj\Debug\net5.0\sintaxisBasica.AssemblyInfo.cs
+C:\Users\arang\Documents\proyectos.Net\clasesC#\sintaxisBasica\obj\Debug\net5.0\sintaxisBasica.csproj.CoreCompileInputs.cache
